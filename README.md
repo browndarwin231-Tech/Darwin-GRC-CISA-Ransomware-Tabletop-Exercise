@@ -89,7 +89,7 @@ Scoring uses a simulated 5 x 5 likelihood-impact model.
 
 ## Source Research Screenshot
 
-![CISA Tabletop Exercise Packages research page](screenshots/01-cisa-tabletop-exercise-packages.png)
+![CISA Tabletop Exercise Packages research page](01-cisa-tabletop-exercise-packages.png)
 
 ## Author
 

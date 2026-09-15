@@ -1,0 +1,9 @@
+ID,Finding,Corrective Action,Owner,Priority,Target,Success Measure,Status
+IP-01,"Outdated response contacts","Update roster and run quarterly call-tree test","Incident Response Manager",High,"30 days","100 percent of primary and alternate contacts confirmed",Open
+IP-02,"Undocumented ransom decision criteria","Approve payment authority and decision framework including legal sanctions review","General Counsel",High,"45 days","Framework approved and referenced by incident-response plan",Open
+IP-03,"Incomplete Tier 1 restoration testing","Add customer-support platform to quarterly restoration tests","IT Operations Manager",Critical,"60 days","Successful isolated restoration meeting documented RTO and RPO",Open
+IP-04,"Incomplete notification matrix","Document jurisdiction contractual and regulator triggers","Privacy Officer",High,"60 days","Legal approval and annual review date recorded",Open
+IP-05,"No preapproved communication templates","Approve employee customer regulator and media templates","Communications Director",Medium,"45 days","Templates approved stored and tested in exercise",Open
+IP-06,"Manual workaround not fully documented","Update business continuity procedure for customer support","Business Continuity Manager",Medium,"75 days","Workaround tested with service leadership",Open
+IP-07,"Follow-up validation needed","Conduct focused ransomware exercise and verify corrective actions","GRC Manager",Medium,"180 days","All high-priority actions validated or risk accepted",Planned
+

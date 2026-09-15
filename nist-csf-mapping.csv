@@ -1,0 +1,12 @@
+Exercise Area,NIST CSF 2.0 Outcome,Application in Exercise,Evidence
+"Roles and authority",GV.RR-02,"Incident command and decision owners are defined","Incident-response plan; RACI; contact roster"
+"Risk understanding",ID.RA-04,"Ransomware likelihood and impact are evaluated","Risk register; 5 x 5 scoring record"
+"Asset prioritization",ID.AM-05,"Critical services are prioritized for response and recovery","Asset inventory; business impact analysis"
+"Identity protection",PR.AA-05,"Administrative access is restricted and managed","Privileged account records; MFA evidence; access logs"
+"Data protection",PR.DS-11,"Backups are protected and tested","Backup reports; restoration-test records"
+"Event monitoring",DE.CM-01,"Systems are monitored for suspicious activity","SIEM alerts; endpoint events; authentication logs"
+"Incident analysis",RS.AN-03,"Analysis determines scope impact and root cause","Incident timeline; forensic notes; indicators"
+"Incident communication",RS.CO-02,"Stakeholders receive coordinated incident information","Notification matrix; communication templates"
+"Incident mitigation",RS.MI-01,"Containment actions prevent incident expansion","Containment checklist; decision log"
+"Recovery execution",RC.RP-01,"Recovery procedures restore affected services","Recovery plan; restoration evidence; validation checklist"
+"Recovery communication",RC.CO-03,"Recovery status is communicated to stakeholders","Executive updates; customer notices; closure report"

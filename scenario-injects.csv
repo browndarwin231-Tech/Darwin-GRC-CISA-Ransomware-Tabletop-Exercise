@@ -1,0 +1,10 @@
+Inject,Time,Scenario Event,Primary Teams,Expected Actions,Evaluation Criteria
+1,08:15,"Employees report ransom notes and inaccessible shared files","Service Desk; Security","Validate alerts; open incident; preserve initial evidence; escalate","Incident criteria and escalation path are clear"
+2,08:30,"A dormant administrator account shows suspicious authentication activity","Security; Identity; IT","Disable compromised access; rotate credentials; scope activity; preserve logs","Containment balances security and operational needs"
+3,09:00,"Customer-support platform becomes unavailable and customer calls increase","IT; Business Continuity; Executive","Declare business impact; prioritize services; activate workaround; brief leadership","Recovery priorities and communications are defined"
+4,09:20,"Threat actor shares a sample of customer data and threatens publication","Legal; Privacy; Security; Communications","Validate sample; assess breach; notify counsel and insurer; begin notification analysis","Regulatory and contractual decisions have owners"
+5,09:40,"Attacker demands payment within 24 hours","Executive; Legal; Finance; Security","Apply payment decision framework; evaluate sanctions; contact insurer and law enforcement","Payment authority and criteria are documented"
+6,10:00,"Backups are intact but support-platform restoration has not been tested recently","IT; Security; Business Continuity","Validate clean backups; establish recovery environment; test restoration; monitor reinfection","Recovery evidence and acceptance authority are clear"
+7,10:20,"A reporter asks whether customer data was stolen","Communications; Legal; Executive","Use holding statement; coordinate facts; preserve confidentiality; set update cadence","Approved communication workflow is followed"
+8,10:35,"Core systems are restored and monitoring shows no new encryption","All teams","Validate services; reset credentials; increase monitoring; plan lessons learned","Closure criteria and post-incident actions are defined"
+
